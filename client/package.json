@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://al2bovek.github.io/-/",
+  "homepage": "https://al2bovek.github.io/-pay-bill_React/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
